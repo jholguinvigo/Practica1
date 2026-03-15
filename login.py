@@ -1,1 +1,1 @@
-print("Ingresa tu clave V2   +++  me quede con error )
+print("Ingresa tu clave V2" )
